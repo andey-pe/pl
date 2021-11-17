@@ -1,0 +1,23 @@
+{
+    "applinks":{
+       "apps":[],
+       "details":[
+        {
+            "appID":"paperplaneventures.pilotlife",
+            "paths":[
+               "/users/reset_password/*"
+            ]
+         }
+       ]
+    },
+    "activitycontinuation":{
+       "apps":[
+          "paperplaneventures.pilotlife"
+       ]
+    },
+    "webcredentials":{
+       "apps":[
+          "paperplaneventures.pilotlife"
+       ]
+    }
+}
